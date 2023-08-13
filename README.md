@@ -31,7 +31,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone this repository:
 
-```javascript 
+```terminal 
 https://github.com/your-username/CRUD-App.git
 ```
 
