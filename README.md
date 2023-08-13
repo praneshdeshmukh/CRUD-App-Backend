@@ -33,10 +33,10 @@ Before you begin, ensure you have met the following requirements:
 https://github.com/your-username/CRUD-App.git
 
 2. Navigate to the project directory:
-cd CRUD app
+## 'cd CRUD app'
 
 3. Install the dependencies:
-npm install
+'npm install'
 
 4. Create a `.env` file in the root directory and set your MongoDB connection URI:
 MONGODB_URI=mongodb+srv://<yourusername>:<yourpassword>@cluster0.zfcokkr.mongodb.net/crudapp
