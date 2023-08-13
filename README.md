@@ -31,8 +31,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone this repository:
 
-```terminal
-https://github.com/your-username/CRUD-App.git```
+```terminal https://github.com/your-username/CRUD-App.git```
 
 3. Navigate to the project directory:
 ```cd CRUD app```
