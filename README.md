@@ -30,15 +30,17 @@ Before you begin, ensure you have met the following requirements:
 ## Installation
 
 1. Clone this repository:
-```https://github.com/your-username/CRUD-App.git```
 
-2. Navigate to the project directory:
+```terminal
+https://github.com/your-username/CRUD-App.git```
+
+3. Navigate to the project directory:
 ```cd CRUD app```
 
-3. Install the dependencies:
+4. Install the dependencies:
 ```npm install```
 
-4. Create a `.env` file in the root directory and set your MongoDB connection URI:
+5. Create a `.env` file in the root directory and set your MongoDB connection URI:
 ```MONGODB_URI=mongodb+srv://<yourusername>:<yourpassword>@cluster0.zfcokkr.mongodb.net/crudapp```
 
 ## Usage
