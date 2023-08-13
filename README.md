@@ -44,11 +44,11 @@ MONGODB_URI=mongodb+srv://<yourusername>:<yourpassword>@cluster0.zfcokkr.mongodb
 ## Usage
 
 1. Start the application:
-npm start
+'npm start'
 
-2. Open Postman or your preferred API testing tool.
+3. Open Postman or your preferred API testing tool.
 
-3. Test the API endpoints (See [API Endpoints](#api-endpoints) section).
+4. Test the API endpoints (See [API Endpoints](#api-endpoints) section).
 
 ## API Endpoints
 
