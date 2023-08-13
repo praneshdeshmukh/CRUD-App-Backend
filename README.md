@@ -32,22 +32,30 @@ Before you begin, ensure you have met the following requirements:
 1. Clone this repository:
 
 ```terminal 
-https://github.com/your-username/CRUD-App.git
+  https://github.com/your-username/CRUD-App.git
 ```
 
 3. Navigate to the project directory:
-```cd CRUD app```
+```terminal
+  cd CRUD app
+```
 
-4. Install the dependencies:
-```npm install```
+5. Install the dependencies:
+```terminal
+  npm install
+```
 
-5. Create a `.env` file in the root directory and set your MongoDB connection URI:
-```MONGODB_URI=mongodb+srv://<yourusername>:<yourpassword>@cluster0.zfcokkr.mongodb.net/crudapp```
+7. Create a `.env` file in the root directory and set your MongoDB connection URI:
+```javascript
+MONGODB_URI=mongodb+srv://<yourusername>:<yourpassword>@cluster0.zfcokkr.mongodb.net/crudapp
+```
 
 ## Usage
 
 1. Start the application:
-```npm start```
+```terminal
+npm start
+```
 
 3. Open Postman or your preferred API testing tool.
 
